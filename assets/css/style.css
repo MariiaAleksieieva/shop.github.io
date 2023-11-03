@@ -75,3 +75,11 @@ body {
         text-align: justify;
     }
 }
+
+@media (min-width: 1400px) {
+    .fon>img {
+        margin-left: 3vw;
+        margin-right: 5vw;
+
+    } 
+}
