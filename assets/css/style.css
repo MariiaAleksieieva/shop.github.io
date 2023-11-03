@@ -10,6 +10,14 @@ body {
     max-width: 100%;
 }
 
+.navi {
+    display: grid;
+    grid-template-columns: 1.6fr 0.9fr 0.9fr 1fr 0.8fr;
+    font-size: 9px;
+    background-color: rgb(190, 173, 153);
+    color: white;
+}
+
 .fon > img {
     max-width: 100%;
     margin-bottom: 1vw;
