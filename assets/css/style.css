@@ -61,6 +61,11 @@ body {
 }
 
 @media (min-width: 490px) {
+        
+    .navi {
+    font-size: 12px;
+    }
+
     .card-img-overlay {
         margin: auto;
     }
