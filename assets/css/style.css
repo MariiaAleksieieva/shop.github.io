@@ -26,7 +26,7 @@ body {
 
 .menu {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-row: auto;
     gap: 1vw;
     justify-content: center;
@@ -70,6 +70,11 @@ body {
     .card-img-overlay {
         margin: auto;
     }
+ 
+    .menu {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    
     .card-body {
         margin: auto;
     }
